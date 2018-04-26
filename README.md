@@ -1,3 +1,3 @@
 # ListaZadan
 SPA zrobiona za pomocą Angulara  
-[Link do Listy Zadań](https://kkasztann.github.io/ListaZadan/)
+[Link do strony - Listy Zadań](https://kkasztann.github.io/ListaZadan/)
